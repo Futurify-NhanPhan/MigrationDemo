@@ -1,0 +1,14 @@
+d:\win10c\documents\visual studio 2015\Projects\MigrationDemo\MigrationDemo\obj\Debug\MigrationDemo.csprojResolveAssemblyReference.cache
+d:\win10c\documents\visual studio 2015\Projects\MigrationDemo\MigrationDemo\bin\MigrationDemo.dll.config
+d:\win10c\documents\visual studio 2015\Projects\MigrationDemo\MigrationDemo\bin\MigrationDemo.dll
+d:\win10c\documents\visual studio 2015\Projects\MigrationDemo\MigrationDemo\bin\MigrationDemo.pdb
+d:\win10c\documents\visual studio 2015\Projects\MigrationDemo\MigrationDemo\bin\EntityFramework.dll
+d:\win10c\documents\visual studio 2015\Projects\MigrationDemo\MigrationDemo\bin\EntityFramework.SqlServer.dll
+d:\win10c\documents\visual studio 2015\Projects\MigrationDemo\MigrationDemo\bin\EntityFramework.xml
+d:\win10c\documents\visual studio 2015\Projects\MigrationDemo\MigrationDemo\bin\EntityFramework.SqlServer.xml
+d:\win10c\documents\visual studio 2015\Projects\MigrationDemo\MigrationDemo\obj\Debug\MigrationDemo.dll
+d:\win10c\documents\visual studio 2015\Projects\MigrationDemo\MigrationDemo\obj\Debug\MigrationDemo.pdb
+d:\win10c\documents\visual studio 2015\Projects\MigrationDemo\MigrationDemo\obj\Debug\MigrationDemo.Migrations.StudentTable.resources
+d:\win10c\documents\visual studio 2015\Projects\MigrationDemo\MigrationDemo\obj\Debug\MigrationDemo.csproj.GenerateResource.Cache
+d:\win10c\documents\visual studio 2015\Projects\MigrationDemo\MigrationDemo\bin\Microsoft.Web.Infrastructure.dll
+D:\win10C\Documents\Visual Studio 2015\Projects\MigrationDemo\MigrationDemo\obj\Debug\MigrationDemo.Migrations.Test.resources
